@@ -1,0 +1,22 @@
+dateModified: 1604684488
+email:
+  fromEmail: evgeniy.gololobov@gmail.com
+  fromName: Craft
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  commerce:
+    edition: pro
+    enabled: true
+    schemaVersion: 3.2.9
+system:
+  edition: solo
+  live: true
+  name: Craft
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
